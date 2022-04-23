@@ -4,7 +4,7 @@ import util
 
 
 """
-pyeca runs elementary cellular automata in the terminal
+eca runs elementary cellular automata in the terminal
 
 use:
     syntax:
