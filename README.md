@@ -1,8 +1,6 @@
 # eca
 View elementary cellular automata in your terminal!
 
-use:
-    
     syntax:
         
         pyeca [rule] [cols] [steps]
