@@ -26,4 +26,6 @@ View elementary cellular automata in your terminal!
         
         (uses rule 110, set width to 80 columns, set length to 24 rows)
 
-        ![image](https://user-images.githubusercontent.com/64670342/164933876-b3e68a53-0a77-4fc6-8338-dc88879c4173.png)
+
+
+![image](https://user-images.githubusercontent.com/64670342/164933876-b3e68a53-0a77-4fc6-8338-dc88879c4173.png)
