@@ -18,11 +18,7 @@ View elementary cellular automata in your terminal!
         --initial or -i: initial state specified with 1s and 0s
         
         --out or -o: character (1s) used as output to terminal
-        
 
-example: let's use rule 110 and make a pattern 80 cols by 24 rows
+example:    eca.py 110 80 24    (uses rule 110, set width to 80 columns, set length to 24 rows)
 
-eca.py 110 80 24
-
-![image](https://user-images.githubusercontent.com/64670342/164933697-283d0fe9-b2f1-45f7-840f-0db1f3a36d39.png)
-
+file:///home/kj/Pictures/Screenshots/eca_terminal_screenshot.png![image](https://user-images.githubusercontent.com/64670342/164933876-b3e68a53-0a77-4fc6-8338-dc88879c4173.png)
